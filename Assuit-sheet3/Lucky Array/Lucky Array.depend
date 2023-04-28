@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1665586487 source:d:\codeblocks examples\codeforces\contest_2\lucky array\main.c
+	<stdio.h>
+	<stdlib.h>
+
