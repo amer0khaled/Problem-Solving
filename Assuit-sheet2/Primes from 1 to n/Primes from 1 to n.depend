@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1664829308 source:d:\codeblocks examples\codeforces\assiut sheet_2\primes from 1 to n\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1680995784 source:d:\problem solving\codeforces\assiut sheet_2 loops\primes from 1 to n\main.c
+	<stdio.h>
+	<stdlib.h>
+

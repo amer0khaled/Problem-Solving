@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1664183508 source:d:\codeblocks examples\codeforces\assiut sheet_2\one prime\main.c
+	<stdio.h>
+	<stdlib.h>
+

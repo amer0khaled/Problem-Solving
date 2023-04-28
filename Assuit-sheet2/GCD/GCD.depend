@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1664491775 source:d:\codeblocks examples\codeforces\assiut sheet_2\gcd\main.c
+	<stdio.h>
+	<stdlib.h>
+
