@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1667108594 source:d:\codeblocks examples\codeforces\assiut sheet_1 conditions\multiples\main.c
+	<stdio.h>
+	<stdlib.h>
+

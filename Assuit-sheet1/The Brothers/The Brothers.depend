@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1667160845 source:d:\codeblocks examples\codeforces\assiut sheet_1 conditions\the brothers\main.c
+	<stdio.h>
+	<stdlib.h>
+
