@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1664828122 source:d:\codeblocks examples\codeforces\assiut sheet_2\pyramid\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1664828122 source:d:\codeblocks examples\codeforces\assiut sheet_2 loops\pyramid\main.c
+	<stdio.h>
+	<stdlib.h>
+
